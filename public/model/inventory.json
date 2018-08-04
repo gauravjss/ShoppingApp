@@ -1,0 +1,40 @@
+[{
+  "ProductName": "Solid Green Cotton t-shirt",
+  "Gender": "Male",
+  "ProductPrice": "11",
+  "DiscountPercent": "5",
+  "Quantity":"1",
+  "Size": "S",
+  "Color":"Blue",
+  "ImageName": "T1.jpg"
+},
+{
+  "ProductName": "Pink Rainbow Print Girls Tee",
+  "Gender": "Female",
+  "ProductPrice": "17",
+  "DiscountPercent": "2",
+  "Quantity":"1",
+  "Size": "S",
+  "Color":"Grey",
+  "ImageName": "T2.jpg"
+},
+{
+  "ProductName": "Blue Flower Pattern Shirt",
+  "Gender": "Male",
+  "ProductPrice": "9",
+  "Quantity":"1",
+  "DiscountPercent": "10",
+  "Size": "S",
+  "Color":"Blue",
+  "ImageName": "T3.jpg"
+},
+{
+  "ProductName": "Off White Cotton Pant",
+  "Gender": "Female",
+  "ProductPrice": "13",
+  "Quantity":"1",
+  "DiscountPercent": "6",
+  "Size": "L",
+  "Color":"White",
+  "ImageName": "P1.jpg"
+}]
